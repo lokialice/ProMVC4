@@ -3,3 +3,12 @@ C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\SportStore\SportStore.D
 C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.csprojResolveAssemblyReference.cache
 C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
 C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+C:\Users\phi.hoang\Documents\Visual Studio 2013\Projects\ProMVC4\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
