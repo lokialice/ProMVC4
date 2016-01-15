@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
-
+using System.Web.Http;
 namespace SportStore.WebUI
 {
     public class RouteConfig
@@ -32,8 +32,9 @@ namespace SportStore.WebUI
                 new { controller = "Product", action = "List" },
                 new { page = @"\d+" }
             );
-
+            routes.MapRoute(name: "Default", url: "{controller}/{action}/{id}", defaults: new { controller = "Product", action = "List", id = UrlParameter.Optional });             
             routes.MapRoute(null, "{controller}/{action}");
+            
         }
     }
 }

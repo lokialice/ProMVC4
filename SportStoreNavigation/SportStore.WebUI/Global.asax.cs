@@ -26,5 +26,6 @@ namespace SportStore.WebUI
 
             ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
         }
+
     }
 }
